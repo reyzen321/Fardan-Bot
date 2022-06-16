@@ -3,17 +3,17 @@ const chalk = require("chalk")
 
 // Other
 global.log0 = fs.readFileSync("./media/fenzo.jpg")
-global.owner = ['6285778815524','6289522183114','6289522183114','6289522183114']
+global.owner = ['6283148375193','6283148375193','6283148375193','6283148375193']
 global.lolhuman = "" //Beli Di lolhuman.xyz
 global.rkyt = []
 global.banUser = ['6281366679021@s.whatsapp.net']
 global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = []
 global.gcrevoke = ['19054091487-1424650263@g.us']
-global.packname = "© MIACANS+🇲🇨\nim Form Indonesia "
-global.packname2 = "ROHMANanBot++\n OwnerPack :6289522183114👿"
-global.author = "ROHMAN Ganteng 😎"
-global.sessionName = "session"
+global.packname = "shinz"
+global.packname2 = "nye"
+global.author = ""
+global.sessionName = "hisoka"
 global.namebot = "MIACANS Bot"
 global.linkgrupss = "https://chat.whatsapp.com/FTgqOEkbfWwJItwvUjhgTI"
 global.antitags = true
